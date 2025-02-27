@@ -56,7 +56,7 @@ rainy,75.0,80.0,false,yes
 ## EMPLOYEE DATA
 ![Screenshot 2025-02-27 155010](https://github.com/user-attachments/assets/55cf7511-cb2f-4291-ad87-505c409392ca)
 
-##WEATHER DATA
+## WEATHER DATA
 ![Screenshot 2025-02-27 154412](https://github.com/user-attachments/assets/96a5fec1-ac0b-4fd7-87d6-4b921efcf13b)
 
 
