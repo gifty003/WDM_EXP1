@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 27-02-2025
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -53,7 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+## EMPLOYEE DATA
+![Screenshot 2025-02-27 155010](https://github.com/user-attachments/assets/55cf7511-cb2f-4291-ad87-505c409392ca)
 
+##WEATHER DATA
+![Screenshot 2025-02-27 154412](https://github.com/user-attachments/assets/96a5fec1-ac0b-4fd7-87d6-4b921efcf13b)
 
 
 ### PREPROCESSING
@@ -75,6 +79,12 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## EMPLOYEE DATA
+![Screenshot 2025-02-27 153735](https://github.com/user-attachments/assets/9f53d200-f448-4f5b-bdec-f23af500b9dc)
+
+## WEATHER DATA
+![Screenshot 2025-02-27 154745](https://github.com/user-attachments/assets/71ed4c9e-c666-4d21-a3e6-7952215a9da0)
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +101,12 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+## EMPLOYEE DATA
+![Screenshot 2025-02-27 153820](https://github.com/user-attachments/assets/fcaac9c1-b77d-4a1d-b206-9a0c06f8f08e)
+
+## WEATHER DATA
+![Screenshot 2025-02-27 154839](https://github.com/user-attachments/assets/c978f5d7-68df-4a50-9443-a834d3cecce7)
+
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +123,13 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+## EMPLOYEE DATA
+![Screenshot 2025-02-27 153906](https://github.com/user-attachments/assets/4958ff7d-bb09-4e38-81ff-0053088ba4d3)
+
+
+## WEATHER DATA
+![Screenshot 2025-02-27 154911](https://github.com/user-attachments/assets/bcf3019c-3e54-4fb4-8ca1-920be16e1b34)
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
